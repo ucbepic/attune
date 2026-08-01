@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+.env*.local
+!.env.example
+
+# Public deployment 
+DEPLOYMENT.md
+backend/modal_app.py
+.vercel/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store

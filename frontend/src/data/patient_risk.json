@@ -1,0 +1,352 @@
+[
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "A 62-year-old female patient was treated in 1991 for a giant cell tumor of the right distal medial femoral condyle with curettage and allograft bone grafting. In the same year, she presented with a local recurrence and had a repeat curettage and cementation of the lesion with polymethylmethacrylate. The patient remained symptom-free for 20 years until she presented to our clinic with increasing knee pain and functional impairment secondary to degenerative change within the knee joint.\\nOn physical examination, she had a longitudinal anteromedial knee scar with a 10-degree varus deformity. Range of motion was from 15° to 90° of flexion. Plain knee radiographs showed a large bolus of cement oc...",
+    "known_conditions": "",
+    "disease_count": 2,
+    "disease_label": "arthritis",
+    "id": 1
+  },
+  {
+    "patient_age": "28",
+    "patient_sex": "male",
+    "chief_complaint": "Subtrochanteric fracture of the right thigh following a road traffic accident",
+    "clinical_note": "A 110-kg 28-year-old male was admitted to the Emergency Department for subtrochanteric fracture of the right thigh following a road traffic accident. Besides the injured thigh, there was no complaint of pain at any other site. There was no associated injury and any other comorbid conditions. The patient was obese with a body mass index of 37 and no other comorbidities. He had no history of veno-occlusive disease, and all the preoperative laboratory evaluations were normal. Antegrade interlocking nailing was planned as a treatment strategy. He was taken into the operating theatre within 48 h of the trauma after adequate resuscitation. The surgery was carried out under general anaesthesia, wit...",
+    "known_conditions": "['obesity', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "obesity",
+    "id": 2
+  },
+  {
+    "patient_age": "51",
+    "patient_sex": "woman",
+    "chief_complaint": "None",
+    "clinical_note": "Susan is a 51-year-old woman. As an adolescent, she developed scoliosis. Working as a hairstylist when she was 18 or 19, she began to have severe pain in her hands, making her work very difficult. She had carpal tunnel surgery on her right hand which provided temporary relief. Her symptoms slowly returned and she continued to have intense pain and difficulty with her daily activities. Seeking relief from her symptoms, she received treatment from chiropractors and Chinese medicine practitioners with no significant benefit. She also tried yoga and swimming but depending on the yoga movements or swimming strokes, she began to have more pain.\\nWhen she was in her early forties, she began to have...",
+    "known_conditions": "['stroke']",
+    "disease_count": 1,
+    "disease_label": "stroke",
+    "id": 3
+  },
+  {
+    "patient_age": "32",
+    "patient_sex": "Female",
+    "chief_complaint": "Severe dyspnoea and chest pain",
+    "clinical_note": "Our patient was a 32-year-old previously healthy female at the 39th week of gestation who accessed the first aim department of a primary healthcare centre of a peripheral hospital for severe dyspnoea and chest pain. Her past medical history did not present other hospitalizations for the same symptoms. Due to the clinical manifestations, the patient was initially treated as a case of pulmonary embolic disease and subjected to a massive anticoagulant therapy. Considering the clinical diagnosis and the child to term, an emergent caesarean delivery was performed in order to avoid foetal complications. The caesarean section was successfully performed under general anaesthesia using Stark's method...",
+    "known_conditions": "['heart disease', 'asthma', 'stroke']",
+    "disease_count": 3,
+    "disease_label": "heart disease",
+    "id": 4
+  },
+  {
+    "patient_age": "26",
+    "patient_sex": "Female",
+    "chief_complaint": "Further evaluation of the bone lesion and associated tenderness over the anteromedial aspect of the patient's knee in the area of tibial tunnel",
+    "clinical_note": "A 26-year-old female sustained an injury to her right knee at a dance tryout. Radiographs and MRI were obtained for the evaluation of the acute injury (Figures and ). Imaging demonstrated a complete tear of her anterior cruciate ligament, terminal sulcus impaction injury, and a corner fracture of the posterior aspect of the lateral tibial plateau.\\nThe patient subsequently underwent an ACL reconstruction utilizing bone-patellar tendon-bone autograft at an outside institution with an uneventful recovery. The initial postoperative radiographs from the outside institution were unremarkable ().\\nApproximately 6 months after the ACL reconstruction surgery, the patient had reinjured her right knee...",
+    "known_conditions": "['cancer']",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 5
+  },
+  {
+    "patient_age": "Eight years old",
+    "patient_sex": "Female",
+    "chief_complaint": "Severe swelling and facial asymmetry on the right mandibular molar region",
+    "clinical_note": "Our patient, an eight-year-old girl, presented to our clinic, with severe swelling and facial asymmetry on the right mandibular molar region. We were informed that the patient developed the swelling as a result of an infection three months previously. The patient had been treated with antibiotics, but as that treatment had not proved successful, she was referred to our clinic. In addition, a passed or congenital disease was not specified in the patient's medical history. Clinical examination revealed severe swelling without fluctuation upon palpation and submandibular lymphadenopathy in the right mandibular region. The patient's skin was of normal color and appearance. In the oral examinatio...",
+    "known_conditions": "['cancer']",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 6
+  },
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "We present a 58 year old male with an unusual posterior thigh mass for more than a year. Patient had a past medical history significant for RCC, initially diagnosed at stage II, 11 years ago followed by left nephrectomy. Patient also had metastasis to tail of the pancreas and tip of spleen 6 years ago which was followed by total resection of pancreas and spleen. Patient was followed up for RCC and was last seen 2 years ago when his PET/CT showed slightly increased hypermetabolic area in the biceps femoris muscle which was interpreted as a muscle injury secondary to the rarity of the metastasis to the skeletal muscle from RCC. Patient during the current follow up visit developed a large mass ...",
+    "known_conditions": "",
+    "disease_count": 3,
+    "disease_label": "anxiety disorder",
+    "id": 7
+  },
+  {
+    "patient_age": "27",
+    "patient_sex": "Female",
+    "chief_complaint": "Complaints of headaches, blurriness of vision, and left-sided numbness and tingling.",
+    "clinical_note": "A 27-year-old female who was 26 weeks pregnant presented to her obstetrician with complaints of headaches, blurriness of vision, and left-sided numbness and tingling. She had suffered weekly episodes of headaches for 2 months that were accompanied by blurry vision in both eyes and diffuse left-sided weakness. A computed tomography (CT) scan with contrast enhancement demonstrated ventriculomegaly and was interpreted as an ill-defined pineal thalamic mass. Magnetic resonance imaging (MRI) without gadolinium enhancement showed a 1-cm mass in the pineal region and obstructive hydrocephalus []. An initial neurologic examination yielded normal findings.\\nTo treat the patient's hydrocephalus and ob...",
+    "known_conditions": "['arthritis', 'stroke', 'cancer']",
+    "disease_count": 3,
+    "disease_label": "arthritis",
+    "id": 8
+  },
+  {
+    "patient_age": "48 years old at first presentation in November 2006",
+    "patient_sex": "Male",
+    "chief_complaint": "Severe epigastric pain and nausea; vague epigastric pain; epigastric and left upper quadrant pain",
+    "clinical_note": "A 48-year-old man with a history of alcohol abuse presented to the gastroenterology department for the first time in November 2006. He was suffering from severe epigastric pain and nausea for two days. Because the laboratory findings were suspicious for pancreatitis, the patient underwent computed tomography (CT) (Fig. ). The examination showed an edematous pancreas tail and fluid in the anterior prerenal space and in the anterior, posterior and lateroconal fascia. There were no signs of chronic pancreatitis or vascular complications. In the following months the patient had two similar episodes of acute tail pancreatitis.\\nIn September 2009 he presented with vague epigastric pain of several ...",
+    "known_conditions": "['cancer']",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 9
+  },
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "A male newborn who had been diagnosed to have hydrothorax on fetal ultrasonography was born to a 29-year-old woman at 39 weeks' gestation with a birth weight of 3400 g and transferred to our neonatal intensive care unit as he had common port wine nevus on his trunk. Antenatal history of the mother was uneventful except for smoking 1-2 cigarettes per day, and she had upper airway and urinary tract infections one week before the birth. There was no consanguinity between the parents. On physical examination he had a common port wine stain partially involving the skin overlying the right arm, sternal region in the neck, right temporooccipital region, right leg, anterior and posterior parts of le...",
+    "known_conditions": "",
+    "disease_count": 2,
+    "disease_label": "asthma",
+    "id": 10
+  },
+  {
+    "patient_age": "23",
+    "patient_sex": "Female",
+    "chief_complaint": "Polytrauma due to an unrestrained motor vehicle rollover",
+    "clinical_note": "An 23-year-old female polytrauma presented to our academic level 1 trauma center following an unrestrained motor vehicle rollover. On arrival, the patient was hemodynamically stable, alert, and cooperative. Primary survey demonstrated obvious deformities of the right brachium and right thigh as well as a painful, externally rotated left lower extremity. The right brachium was open, but all extremities were neurovascularly intact.\\nRadiographs demonstrated an open comminuted fracture involving the distal right humerus, a short oblique fracture of the distal right femoral diaphysis, and a complete medially displaced left femoral neck fracture (). Computed tomography demonstrated the intrapelvi...",
+    "known_conditions": "",
+    "disease_count": 0,
+    "disease_label": "no_disease",
+    "id": 11
+  },
+  {
+    "patient_age": "Seventy-three years old",
+    "patient_sex": "Male",
+    "chief_complaint": "Concerned with having a cancer that would give him only a few days to live",
+    "clinical_note": "We present a case of a seventy-three-year-old Saudi man who has started visiting the primary health care center in our institution twenty-five years ago. He has been concerned with having a cancer that would give him only few days to live. At the beginning, the patient was evaluated medically through detailed history and documentation of his symptoms and then a management plan was created accordingly to exclude cancer. Full history, physical examinations, and radiological and pathological investigations were ordered and the results were all negative for cancer. The physician explained the results of the investigations to the patient but he refused them and continued to insist that he had can...",
+    "known_conditions": "['anxiety disorder', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "anxiety disorder",
+    "id": 12
+  },
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "A 76-year-old female patient was admitted to our emergency department early in the morning with suspected acute coronary syndrome. The patient had suffered from a major stroke causing Broca's aphasia three months prior to this admission and was referred to us from a nearby neurorehabilitation clinic. Initial ECG showed no signs of acute ischemia, but troponin I levels were about 1000-fold elevated. History taking was complicated by patient's aphasia, but she did not appear to be in acute pain at the time of admission.\\nWith a history of heart failure and an implanted single-chamber ICD, the patient was brought to the catheter lab to undergo coronary angiogram, where no culprit lesion could b...",
+    "known_conditions": "",
+    "disease_count": 3,
+    "disease_label": "heart disease",
+    "id": 13
+  },
+  {
+    "patient_age": "29",
+    "patient_sex": "Female",
+    "chief_complaint": "Severe substernal chest discomfort and severe shortness of breath",
+    "clinical_note": "A 29-year-old female, with a history of postpartum SCAD, presented with prolonged labor and eventually underwent a cesarean section delivering a healthy baby boy. Approximately one week following that discharge, she developed severe substernal chest discomfort and severe shortness of breath. Emergency medical services were summoned and she was taken to the emergency department. She was found to have pulmonary edema and was noted to have elevated troponin levels. She was diagnosed with a non-ST elevation myocardial infarction (Figure ). An echocardiogram reported left ventricular end-diastolic pressure 25 mmHg, posterior lateral hypokinesis with a left ventricular ejection fraction (LVEF) of ...",
+    "known_conditions": "['heart disease', 'asthma', 'stroke', 'cancer']",
+    "disease_count": 4,
+    "disease_label": "heart disease",
+    "id": 14
+  },
+  {
+    "patient_age": "47",
+    "patient_sex": "male",
+    "chief_complaint": "Respiratory difficulty after the appearance of a soft palate lesion",
+    "clinical_note": "In March 2016, a 47-year-old male patient was admitted to the Oral and Maxillofacial Surgery and Traumatology service of a public hospital, referred by the medical team with the chief complaint of respiratory difficulty after the appearance of a soft palate lesion. On anamnesis, the patient reported rapid weight loss, drug use for more than 10 years, and the development of a hard palate lesion three years earlier, which was left untreated. In addition, the patient reported the development of a soft palate lesion one month earlier. Intraorally, an extensive mass of mucosa-like color was present in the palate region, which obstructed the oropharynx and consequently caused dyspnea.\\nThe sagitta...",
+    "known_conditions": "['asthma', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "asthma",
+    "id": 15
+  },
+  {
+    "patient_age": "35",
+    "patient_sex": "Male",
+    "chief_complaint": "Contact with 11,000 volts high tension electric wire",
+    "clinical_note": "A 35-year-old male farmer came in contact with 11,000 volts high tension electric wire while irrigating his field. This patient was initially admitted to general surgery ward from main casualty for management as he was having open abdominal wound and was managed there for initial 3 days. He had full thickness burn wounds over the right scapula, right upper limb and anterior abdominal wall along with perforation of the intestine. There was prolapse of the intestinal loops through abdominal wound. Patient was referred to our plastic surgery unit after 3 days. He presented to us in septic shock with an abdominal drain in place. Details of the preliminary management were unavailable except menti...",
+    "known_conditions": "",
+    "disease_count": 0,
+    "disease_label": "no_disease",
+    "id": 16
+  },
+  {
+    "patient_age": "27",
+    "patient_sex": "Female",
+    "chief_complaint": "Progressive knee swelling and pain after a minor sprain",
+    "clinical_note": "A 27-year-old Indonesian female presented with progressive knee swelling and pain for a month after a minor sprain. She had previously enjoyed good past health. She had no other joint symptoms or any systemic symptoms such as weight loss, fever and night sweats. Physical examination revealed moderate knee joint swelling with joint effusion. The knee could not be fully extended. No redness or increase in temperature of the knee joint was present. There was tenderness at the medial joint line. All the inflammatory blood markers were negative. Knee joint fluid aspiration yielded slightly turbid fluid with a small number of lymphocytes and a negative Gram stain and bacterial culture. Knee radiog...",
+    "known_conditions": "['arthritis', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "arthritis",
+    "id": 17
+  },
+  {
+    "patient_age": "47",
+    "patient_sex": "Male",
+    "chief_complaint": "Recurrent attacks of pain in both knees over 1 year",
+    "clinical_note": "A 47-year-old male patient was referred to the rheumatology clinic because of recurrent attacks of pain in both knees over 1 year.\\nIn September 2016, the patient presented with severe pain over the medial aspect of the left knee for a two-week duration which prevented him from ambulation. The pain increased with weight-bearing physical activity. The patient reported no history of trauma before the onset of the knee pain. Examination showed severe tenderness over the medial side of the knee with mild effusion and moderate limitation of range of motion. There was no erythema or increased warmth of the knee. MRI of the left knee showed a moderate-sized focal area of marrow edema/contusion invo...",
+    "known_conditions": "",
+    "disease_count": 0,
+    "disease_label": "no_disease",
+    "id": 18
+  },
+  {
+    "patient_age": "47",
+    "patient_sex": "Male",
+    "chief_complaint": "Acute onset lower back pain during coitus, radiating down the right leg",
+    "clinical_note": "A 47 year old gentleman presented to his general practitioner with acute onset lower back pain. The pain had commenced during coitus and radiated down the right leg. The initial diagnosis was of acute disc prolapse and he was referred for an urgent neurosurgical opinion. The neurosurgeon concurred that the pain may well have been of neurological origin and arranged an MRI scan. This was reported as showing no evidence of spinal cord pathology. The patient was reassured with the results of the MRI findings and was advised the pain was probably musculoskeletal in origin and should settle. Over the subsequent 6 weeks, the pain persisted and indeed increased in severity. The patient noted claudi...",
+    "known_conditions": "['hypertension', 'heart disease']",
+    "disease_count": 2,
+    "disease_label": "hypertension",
+    "id": 19
+  },
+  {
+    "patient_age": "52",
+    "patient_sex": "Woman",
+    "chief_complaint": "Diffuse abdominal pain",
+    "clinical_note": "A 52-year-old woman presented to the emergency department with 3 days of diffuse abdominal pain that started during a dance class. The pain had a sudden onset with radiation to her back and did not worsen with meals. She had mild associated nausea and bloating but no other symptoms including emesis, hematochezia, melena or diarrhea. Her medical history was notable for former smoking history (10 pack-years, quit 5 weeks prior to presentation), but she was otherwise healthy and was taking no medications. Her surgical history consisted of laparoscopic appendectomy and diagnostic laparoscopy for endometriosis, both of which occurred more than a decade prior to presentation. She was hemodynamical...",
+    "known_conditions": "['heart disease', 'chronic obstructive pulmonary disease', 'stroke', 'cancer']",
+    "disease_count": 4,
+    "disease_label": "heart disease",
+    "id": 20
+  },
+  {
+    "patient_age": "35",
+    "patient_sex": "male",
+    "chief_complaint": "Further examination by his general practitioner",
+    "clinical_note": "A 35-year-old male was admitted to our university hospital for further examination by his general practitioner (GP). The patient presented with abdominal pain and diarrhea. A large intraabdominal mass (13 × 12 cm) was detected via ultrasound by the GP. Because of his body mass index (33.2 kg/m2), the mass was not detected on physical examination. An abdominal computed tomography scan (CT) showed a mass of 12 × 11 × 12 cm in the left upper retroperitoneum likely originating from the left adrenal gland. The mass showed signs of calcification, as well as cystic areas, toward the center. Multiple, small retroperitoneal lymph nodes were seen with a maximum size of 15 × 7 mm. Besides the repressiv...",
+    "known_conditions": "['obesity', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "obesity",
+    "id": 21
+  },
+  {
+    "patient_age": "19 years",
+    "patient_sex": "Male",
+    "chief_complaint": "Presented to the psychiatry outpatient department after experiencing GTCS upon missing doses of dexamethasone",
+    "clinical_note": "A 19-year-old male, educated till class 8, currently working as a tailor in a factory presented to the psychiatry outpatient department. The patient gave a history that 3 months back he had joined the gym where a friend told him that if he takes dexamethasone he would have better muscles and hence better looks. Therefore, he took 0.5 mg of dexamethasone tablet twice a day to increase his weight, although we do not have any written proof that he had taken the medications that he claims. He started taking these tablets as he thought he would look good on gaining weight. Although there was no preoccupation with weight or body image, he was not even spending excessive time thinking about his loo...",
+    "known_conditions": "['obesity', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "obesity",
+    "id": 22
+  },
+  {
+    "patient_age": "50 years",
+    "patient_sex": "Male",
+    "chief_complaint": "Worsening of previously stable chronic motor symptoms and recent clinical deterioration",
+    "clinical_note": "A 50-year-old right-handed Latino man presented with worsening of previously stable chronic motor symptoms. He had initially developed sudden weakness and difficulty using his right upper extremity at the age of 16 years. He eventually had to learn to write using his left hand because of the severity of his weakness. His symptoms progressed over several years, eventually developing into severe symmetrical upper extremity weakness and atrophy in his distal muscles. His lower extremities were spared. Our patient stated he was diagnosed with a type of muscular dystrophy in the US when he was 25 years old. After receiving this diagnosis, he subsequently had a muscle biopsy in Mexico that reporte...",
+    "known_conditions": "['stroke']",
+    "disease_count": 1,
+    "disease_label": "stroke",
+    "id": 23
+  },
+  {
+    "patient_age": "59",
+    "patient_sex": "Male",
+    "chief_complaint": "Vomiting",
+    "clinical_note": "We report the case of a 59-year-old man with hypertension and dyslipidemia, both of which were being treated by his primary physician. The patient suffered a traumatic lumbar fracture in 2013 owing to a fall and underwent surgery. Computed tomography (CT) scans performed at the time were focused on the lumbar spine, so other organs were barely included in the image range and no contrast medium was used. However, when carefully observed retrospectively, the CT scan showed a partial inward deviation of the intimal calcification of the abdominal aorta, suggesting a localized dissection of the abdominal aorta (). However, there was no mention of localized aortic dissection, because the dissectio...",
+    "known_conditions": "['hypertension', 'cancer']",
+    "disease_count": 2,
+    "disease_label": "hypertension",
+    "id": 24
+  },
+  {
+    "patient_age": "47",
+    "patient_sex": "Female",
+    "chief_complaint": "Increase in volume of left breast without sign of infection",
+    "clinical_note": "A 47-year-old woman came to our center with an increase in volume of her left breast without sign of infection. She is the mother of two children, without hormonal treatment. She has no hereditary history of breast cancer. In 2004, a breast augmentation was performed using retropectoral textured silicone gel implants, Allergan style 110, 330cc. The clinical examination revealed that her breasts were slightly dissymmetrical. The left breast was much larger than the right without suspicious mass detected and no palpable lymphadenopathy. On the mammography, the mediolateral oblique (MLO) view without compression demonstrates that the left prosthesis is deformed on its anterior pole and a peripr...",
+    "known_conditions": "['cancer']",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 25
+  },
+  {
+    "patient_age": "54",
+    "patient_sex": "male",
+    "chief_complaint": "Increased lower extremity edema, chronic cough, and shortness of breath for 3 months",
+    "clinical_note": "A 54-year-old male with history of anemia and rheumatoid arthritis had noted increased lower extremity edema, chronic cough, and shortness of breath for 3 months, at which point his rheumatologist treated him for pneumonia. With symptoms worsening, the patient visited a primary care physician, as his father had a history of coronary artery disease, colon cancer, and multiple basal cell skin cancers. The patient was then referred for a transthoracic echocardiogram (TTE), which revealed a large right atrial mass with reduced ejection fraction of 40% along with incidental lesions in the liver. A cardiac MRI and MRI of the abdomen/pelvis confirmed these results, revealing a lobulated right atria...",
+    "known_conditions": "['asthma', 'chronic obstructive pulmonary disease', 'arthritis', 'cancer']",
+    "disease_count": 4,
+    "disease_label": "asthma",
+    "id": 26
+  },
+  {
+    "patient_age": "49 years old",
+    "patient_sex": "Female",
+    "chief_complaint": "History of recurrent palpitations for last 10 years",
+    "clinical_note": "A 49 years old female presented with history of recurrent palpitations for last 10 years. During last year, she had 5 episodes of palpitations which required hospitalizations. The tachyardia was repeatedly terminated by intravenous adenosine and verapamil. She was nondiabetic and nonhypertensive. General physical and cardiovascular examination were normal. Her baseline electrocardiogram (ECG) showed left bundle branch block with normal PR interval. The electrocardiogram of tachycardia revealed similar morphology, with the heart rate of 210 beats/min. (). Her transthoracic echocardiogram (TTE) did not show any evidence of structural heart disease. An electrophysiological study was planned wit...",
+    "known_conditions": "['diabetes mellitus', 'hypertension', 'heart disease', 'anxiety disorder', 'cancer']",
+    "disease_count": 5,
+    "disease_label": "diabetes mellitus",
+    "id": 27
+  },
+  {
+    "patient_age": "52",
+    "patient_sex": "Male",
+    "chief_complaint": "Sudden-onset left occipital headache, dizziness, dysphagia, and right-sided hemiparesthesia",
+    "clinical_note": "A 52-year-old man with no particular medical history developed sudden-onset left occipital headache, dizziness, dysphagia, and right-sided hemiparesthesia and was transported to another hospital. Head magnetic resonance imaging (MRI) revealed a left lateral medullary infarction due to the left VAD, and he was admitted to that hospital. Conservative treatment was performed, and the patient had an uneventful course, but at his and his family’s request, he was transferred to our hospital 4 days after onset.\\nOn admission to our hospital, head MRI was performed again. The MRI findings were the same as those observed at the other hospital; that is, a left lateral medullary infarction due to the l...",
+    "known_conditions": "['stroke']",
+    "disease_count": 1,
+    "disease_label": "stroke",
+    "id": 28
+  },
+  {
+    "patient_age": "60 years old",
+    "patient_sex": "Woman",
+    "chief_complaint": "Presented with complaints of shortness of breath, orthopnea, and worsening lower extremity edema.",
+    "clinical_note": "We report the case of a 60-year-old woman of West African descent, with no history of asbestos exposure, who originally presented 24 years ago to another institution with acute abdominal pain. At that time, she underwent an exploratory laparotomy and was found to have nodules diffusely covering the peritoneum. A total abdominal hysterectomy and bilateral salpingo-oophorectomy were performed for suspected ovarian carcinoma, and biopsies were taken of the peritoneal nodules. The pathology from this original surgery was interpreted as low-grade papillary mesothelioma. She then received six adjuvant cycles of intravenous cyclophosphamide, doxorubicin and cisplatin. She underwent a second-look la...",
+    "known_conditions": "['heart disease', 'asthma', 'cancer']",
+    "disease_count": 3,
+    "disease_label": "heart disease",
+    "id": 29
+  },
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "A 64-year-old gentleman with a post radiation recurrent squamous carcinoma of the left lower alveolus was posted for composite resection and reconstruction with fibula free flap by simultaneous two team approach. The left fibula was selected and after flap harvest, the left neck vessels (superior thyroid and facial) were assessed for the volume and character of the flow and were found to be good. The bone defect was extending from midline anteriorly to proximal ramus posteriorly and the soft-tissue defect was confined to the oral cavity []. The flap was designed in a manner so that the superior thyroid vessels were to be used as donor vessels as they were away from the previous zone of irrad...",
+    "known_conditions": "",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 30
+  },
+  {
+    "patient_age": "46",
+    "patient_sex": "Female",
+    "chief_complaint": "Increased pain and swelling in the right breast",
+    "clinical_note": "The patient is a 46-year-old female with SCC of the breast. She initially had silicone gel breast implantation for breast augmentation in 1995. The implantation was surgically revised in 2002 and 2006. In 2014 she noticed hardening and swelling of her right breast. Because of the death of her husband, she did not seek immediate medical attention. She continued to have swelling and increased pain in the right breast. Magnetic resonance imaging (MRI) performed in January 2016 showed a large fluid collection surrounding the intact right silicone implant as shown in Figure . The case was managed by surgical drainage of fluid collection and capsulectomy. In February 2016, she underwent bilateral ...",
+    "known_conditions": "['cancer']",
+    "disease_count": 1,
+    "disease_label": "cancer",
+    "id": 31
+  },
+  {
+    "patient_age": "59",
+    "patient_sex": "Woman",
+    "chief_complaint": "Complaints of fever and loin pain of one-week duration",
+    "clinical_note": "A 59-year-old woman presented to our outpatient department with complaints of fever and loin pain of one-week duration. She had no previous history of hematuria or loin pain and denied any history of recent instrumentation or catheterization. She had no comorbid diseases. General and systemic examinations of the patient were normal except for bilateral renal angle tenderness. Her blood urea was 80 mg/dl and serum creatinine was 1.9 mg/dl. The blood counts were within normal limits and her daily urine output was 2500 ml. Urine analysis revealed plenty of pus cells and culture of the urine revealed Escherichia coli and hence she was started on appropriate antibiotics. Ultrasonogram of the kidn...",
+    "known_conditions": "['heart disease', 'chronic kidney disease']",
+    "disease_count": 2,
+    "disease_label": "heart disease",
+    "id": 32
+  },
+  {
+    "patient_age": "",
+    "patient_sex": "",
+    "chief_complaint": "",
+    "clinical_note": "A 19-year-old male baseball pitcher repeatedly sought medical attention due to left calf muscle tension and foot numbness for nearly a year. His symptoms were especially aggravated after exercising and with left knee joint extension. Although the patient repeatedly visited the clinic, none of the symptoms were improved. Therefore, the patient was referred from the clinic to our hospital. The physical examination revealed no limitation on left knee joint mobility, no specific discomfort, no weakness in the left lower extremity, and no atrophy or hypertrophy of the muscles. However, paresthesia was reported in the left calf and foot. There was tenderness in the left knee popliteal fossa and me...",
+    "known_conditions": "",
+    "disease_count": 1,
+    "disease_label": "stroke",
+    "id": 33
+  },
+  {
+    "patient_age": "45",
+    "patient_sex": "Male",
+    "chief_complaint": "Sudden onset of floaters with progressive visual field defect in his left eye",
+    "clinical_note": "A 45-year-old man with a history of myopia and had received cataract surgeries in both eyes at a local eye clinic 6 years ago without information of IOL material. After that, he had undergone focal photocoagulation in his left eye for a retinal break.\\nHe suffered from a sudden onset of floaters with progressive visual field defect in his left eye for 4 days before he visited our hospital. He was referred from a local eye clinic where retinal detachment in his left eye was diagnosed. Under slit lamp examination, the 3-piece posterior chamber IOLs were in capsular bags in both eyes under status of post neodymium:YAG laser posterior capsulotomy. Indirect ophthalmoscopy showed bullous retinal d...",
+    "known_conditions": "['stroke']",
+    "disease_count": 1,
+    "disease_label": "stroke",
+    "id": 34
+  },
+  {
+    "patient_age": "24",
+    "patient_sex": "Woman",
+    "chief_complaint": "Complaints of fever, weight loss, decreased appetite, swelling in the left submandibular region, and painful swelling of the left breast",
+    "clinical_note": "A 24-year-old woman was admitted with complaints of fever, weight loss, decreased appetite, swelling in the left submandibular region, and painful swelling of the left breast. She was a known case of SLE who was on regular follow-up with the rheumatology department for the last 13 years and had her disease under control with prednisone, hydroxychloroquine, and azathioprine. On examination she was emaciated, with a body mass index of 16. She had mild pallor. There was an indurated swelling, consistent with matted lymph nodes, in the left submandibular region. The scar of a previous biopsy (performed 6 years back at another hospital) was present and the patient reported that she had received a...",
+    "known_conditions": "['obesity', 'arthritis', 'cancer']",
+    "disease_count": 3,
+    "disease_label": "obesity",
+    "id": 35
+  }
+]

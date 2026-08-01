@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "clinical_vignette": "A 56-year-old woman comes to the emergency department because of a 3-day history of malaise, dysuria, blurred vision, and a painful, itchy rash. The rash began on her chest and face and spread to her limbs, palms, and soles. One week ago, she was diagnosed with trigeminal neuralgia and started on a new medicine. She appears ill. Her temperature is 38°C (100.4°F) and pulse is 110/min. Physical examination shows conjunctival injection and ulceration on the tongue and palate. There is no lymphadenopathy. Examination of the skin shows confluent annular, erythematous macules, bullae, and desquamati...",
+    "answer_choices": "A: Bullous pemphigoid | B: Stevens-Johnson syndrome | C: Pemphigus vulgaris | D: Drug-induced lupus erythematosus",
+    "correct_answer": "Stevens-Johnson syndrome",
+    "exam_type": "step1"
+  },
+  {
+    "id": 2,
+    "clinical_vignette": "An 11-year-old girl is brought to the emergency department because of high-grade fever, headache, and nausea for 3 days. She avoids looking at any light source because this aggravates her headache. She has acute lymphoblastic leukemia and her last chemotherapy cycle was 2 weeks ago. She appears lethargic. Her temperature is 40.1°C (104.2°F), pulse is 131/min and blood pressure is 100/60 mm Hg. Examination shows a stiff neck. The pupils are equal and reactive to light. Neck flexion results in flexion of the knee and hip. Muscle strength is decreased in the right upper extremity. Deep tendon ref...",
+    "answer_choices": "A: CT scan of the head | B: MRI of the brain | C: Antibiotic therapy | D: Lumbar puncture",
+    "correct_answer": "Antibiotic therapy",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 3,
+    "clinical_vignette": "A 50-year-old Caucasian man presents for a routine checkup. He does not have any current complaint. He is healthy and takes no medications. He has smoked 10–15 cigarettes per day for the past 10 years. His family history is negative for gastrointestinal disorders. Which of the following screening tests is recommended for this patient according to the United States Preventive Services Task Force (USPSTF)?",
+    "answer_choices": "A: Prostate-specific antigen for prostate cancer | B: Carcinoembryonic antigen for colorectal cancer  | C: Abdominal ultrasonography for abdominal aortic aneurysm | D: Colonoscopy for colorectal cancer",
+    "correct_answer": "Colonoscopy for colorectal cancer",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 4,
+    "clinical_vignette": "A 62-year-old woman comes to the physician because of coughing and fatigue during the past 2 years. In the morning, the cough is productive of white phlegm. She becomes short of breath walking up a flight of stairs. She has hypertension and hyperlipidemia. She has recently retired from working as a nurse at a homeless shelter. She has smoked 1 pack of cigarettes daily for 40 years. Current medications include ramipril and fenofibrate. Her temperature is 36.5°C (97.7°F), respirations are 24/min, pulse is 85/min, and blood pressure is 140/90 mm Hg. Scattered wheezing and rhonchi are heard throug...",
+    "answer_choices": "A: Chronic decrease in pulmonary compliance | B: Local accumulation of kinins | C: Progressive obstruction of expiratory airflow | D: Incremental loss of functional residual capacity\n\"",
+    "correct_answer": "Progressive obstruction of expiratory airflow",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 5,
+    "clinical_vignette": "A 58-year-old man is brought to the Emergency Department after 2 days of shortness breath, orthopnea, and lower limb edema. His past medical history is significant for hypertension and a myocardial infarction 3 years ago that required a coronary arterial bypass graft. He has not been able to take prescribed medicine in several months due to recent unemployment and issues with insurance. On admission, his blood pressure is 155/92 mmHg, heart rate is 102/min, respiratory rate is 24/min, and temperature is 36.4°C (97.5°F). On physical examination there are fine rales in both lungs, regular and rh...",
+    "answer_choices": "A: Diuretic therapy | B: Cholesterol emboli | C: Glomerular basement membrane damage | D: Urinary tract obstruction",
+    "correct_answer": "Diuretic therapy",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 6,
+    "clinical_vignette": "A 48-year-old man is brought to the emergency department by his wife 20 minutes after she witnessed him vigorously shaking for about 1 minute. During this episode, he urinated on himself. He feels drowsy and has nausea. He has a history of chronic alcoholism; he has been drinking 15 beers daily for the past 3 days. Before this time, he drank 8 beers daily. His last drink was 2 hours ago. He appears lethargic. His vital signs are within normal limits. Physical and neurologic examinations show no other abnormalities. On mental status examination, he is confused and not oriented to time. Laborato...",
+    "answer_choices": "A: Cerebral edema | B: Hyperglycemia | C: Osmotic myelinolysis | D: Wernicke encephalopathy",
+    "correct_answer": "Osmotic myelinolysis",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 7,
+    "clinical_vignette": "A 59-year-old man comes to the physician because of a 4-month history of a pruritic rash. His symptoms have not improved despite treatment with over-the-counter creams. During this period, he has also had a 6-kg (13.5-lb) weight loss. Examination shows a scaly rash over his chest, back, and thighs. A photograph of the rash on his thighs is shown. A biopsy of the skin lesions shows clusters of neoplastic cells with cerebriform nuclei within the epidermis. This patient's condition is most likely caused by the abnormal proliferation of which of the following cell types?",
+    "answer_choices": "A: T cells | B: Keratinocytes | C: Mast cells | D: B cells",
+    "correct_answer": "T cells",
+    "exam_type": "step1"
+  },
+  {
+    "id": 8,
+    "clinical_vignette": "A researcher is examining the relationship between socioeconomic status and IQ scores. The IQ scores of young American adults have historically been reported to be distributed normally with a mean of 100 and a standard deviation of 15. Initially, the researcher obtains a random sampling of 300 high school students from public schools nationwide and conducts IQ tests on all participants. Recently, the researcher received additional funding to enable an increase in sample size to 2,000 participants. Assuming that all other study conditions are held constant, which of the following is most likely...",
+    "answer_choices": "A: Decrease in standard deviation | B: Decrease in standard error of the mean | C: Increase in risk of systematic error | D: Increase in probability of type II error",
+    "correct_answer": "Decrease in standard error of the mean",
+    "exam_type": "step1"
+  },
+  {
+    "id": 9,
+    "clinical_vignette": "A sample is taken of an ulcer in the inguinal region of a 29-year-old Malaysian male who has had unprotected sex in the past few months. Intracytoplasmic inclusions are seen in the Giemsa staining in Image A. On which of the following can the organism in the staining be grown?",
+    "answer_choices": "A: Bordet-Gengou agar | B: Löwenstein-Jensen agar | C: Eaton's agar | D: Yolk sac of a chick embryo",
+    "correct_answer": "Yolk sac of a chick embryo",
+    "exam_type": "step1"
+  },
+  {
+    "id": 10,
+    "clinical_vignette": "A 5-year-old boy is brought to the physician by his parents for the evaluation of an episode of loss of consciousness while he was playing soccer earlier that morning. He was unconscious for about 15 seconds and did not shake, bite his tongue, or lose bowel or bladder control. He has been healthy except for 1 episode of simple febrile seizure. His father died suddenly at the age of 34 of an unknown heart condition. The patient does not take any medications. He is alert and oriented. His temperature is 37°C (98.6°F), pulse is 95/min and regular, and blood pressure is 90/60 mm Hg. Physical exami...",
+    "answer_choices": "A: Propranolol | B: Implantable cardioverter defibrillator | C: Magnesium sulfate | D: Amiodarone",
+    "correct_answer": "Propranolol",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 11,
+    "clinical_vignette": "A 62-year-old man comes to the physician because of a swollen and painful right knee for the last 3 days. He has no history of joint disease. His vital signs are within normal limits. Examination shows erythema and swelling of the right knee, with limited range of motion due to pain. Arthrocentesis of the right knee joint yields 7 mL of cloudy fluid with a leukocyte count of 29,000/mm3 (97% segmented neutrophils). Compensated polarized light microscopy of the aspirate is shown. Which of the following is the most likely underlying mechanism of this patient's knee pain?",
+    "answer_choices": "A: Calcium pyrophosphate deposition | B: Mechanical stress and trauma | C: Immune complex-mediated cartilage destruction | D: Monosodium urate deposition",
+    "correct_answer": "Calcium pyrophosphate deposition",
+    "exam_type": "step1"
+  },
+  {
+    "id": 12,
+    "clinical_vignette": "A 51-year-old woman comes to the physician because of a 1-day history of right flank pain and bloody urine. Over the past 2 weeks, she has also developed progressive lower extremity swelling and a 3-kg (7-lb) weight gain. She has a history of chronic hepatitis B infection, which was diagnosed 10 years ago. She frequently flies from California to New York for business. She appears fatigued. Her pulse is 98/min, respirations are 18/min, and blood pressure is 135/75 mm Hg. Examination shows periorbital edema, a distended abdomen, and 2+ edema of the lower extremities. The lungs are clear to auscu...",
+    "answer_choices": "A: Acquired factor VIII deficiency | B: Loss of antithrombin III | C: Impaired estrogen degradation | D: Antiphospholipid antibodies",
+    "correct_answer": "Loss of antithrombin III",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 13,
+    "clinical_vignette": "Twelve hours after undergoing a femoral artery embolectomy, an 84-year-old man is found unconscious on the floor by his hospital bed. He had received a patient-controlled analgesia pump after surgery. He underwent 2 coronary bypass surgeries, 2 and 6 years ago. He has coronary artery disease, hypertension, hypercholesterolemia, gastroesophageal reflux, and type 2 diabetes mellitus. His current medications include metoprolol, atorvastatin, lisinopril, sublingual nitrate, and insulin. He appears pale. His temperature is 36.1°C (97°F), pulse is 120/min, respirations are 24/min, and blood pressure...",
+    "answer_choices": "A: A new left bundle branch block on an ECG | B: Pulsatile abdominal mass at the level of the umbilicus | C: Positive procalcitonin and interleukin-6 levels | D: Improved mental status after naloxone administration\n\"",
+    "correct_answer": "A new left bundle branch block on an ECG",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 14,
+    "clinical_vignette": "A 45-year-old male patient with a history of recurrent nephrolithiasis and chronic lower back pain presents to the ER with severe, sudden-onset, upper abdominal pain. The patient is febrile, hypotensive, and tachycardic, and is rushed to the OR for exploratory laporotomy. Surgery reveals that the patient has a perforated gastric ulcer. Despite appropriate therapy, the patient expires, and subsequent autopsy reveals multiple ulcers in the stomach, duodenum, and jejunum. The patient had been complaining of abdominal pain and diarrhea for several months but had only been taking ibuprofen for his ...",
+    "answer_choices": "A: A gastrin-secreting tumor of the pancreas | B: Cytomegalovirus infection | C: H. pylori infection | D: Chronic NSAID use",
+    "correct_answer": "A gastrin-secreting tumor of the pancreas",
+    "exam_type": "step1"
+  },
+  {
+    "id": 15,
+    "clinical_vignette": "A 46-year-old woman comes to the physician because of a 2-week history of diplopia and ocular pain when reading the newspaper. She also has a 3-month history of amenorrhea, hot flashes, and increased sweating. She reports that she has been overweight all her adult life and is happy to have lost 6.8-kg (15-lb) of weight in the past 2 months. Her pulse is 110/min, and blood pressure is 148/98 mm Hg. Physical examination shows moist palms and a nontender thyroid gland that is enlarged to two times its normal size. Ophthalmologic examination shows prominence of the globes of the eyes, bilateral li...",
+    "answer_choices": "A: Granulomatous inflammation of the cavernous sinus | B: Abnormal communication between the cavernous sinus and the internal carotid artery | C: Glycosaminoglycan accumulation in the orbit | D: Sympathetic hyperactivity of levator palpebrae superioris\n\"",
+    "correct_answer": "Glycosaminoglycan accumulation in the orbit",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 16,
+    "clinical_vignette": "A 53-year-old woman presents to your office with several months of fatigue and abdominal pain. The pain is dull in character and unrelated to meals. She has a history of type 2 diabetes mellitus and rheumatic arthritis for which she is taking ibuprofen, methotrexate, and metformin. She has 2-3 drinks on the weekends and does not use tobacco products. On physical examination, there is mild tenderness to palpation in the right upper quadrant. The liver span is 15 cm at the midclavicular line. Laboratory results are as follows:\n\nSerum:\nNa+: 135 mEq/L\nCl-: 100 mEq/L\nK+: 3.7 mEq/L\nHCO3-: 24 mEq/L\nB...",
+    "answer_choices": "A: Copper accumulation in hepatocytes | B: Fatty infiltration of hepatocytes | C: Alcohol-induced destruction of hepatocytes | D: Drug-induced liver damage",
+    "correct_answer": "Fatty infiltration of hepatocytes",
+    "exam_type": "step1"
+  },
+  {
+    "id": 17,
+    "clinical_vignette": "A 2-month-old is brought to the physician for a well-child examination. She was born at 39 weeks gestation via spontaneous vaginal delivery and is exclusively breastfed. She weighed 3,400 g (7 lb 8 oz) at birth. At the physician's office, she appears well. Her pulse is 136/min, the respirations are 41/min, and the blood pressure is 82/45 mm Hg. She weighs 5,200 g (11 lb 8 oz) and measures 57.5 cm (22.6 in) in length. The remainder of the physical examination is normal. Which of the following developmental milestones has this patient most likely met?",
+    "answer_choices": "A: Absence of asymmetric tonic neck reflex | B: Monosyllabic babble | C: Smiles in response to face | D: Stares at own hand",
+    "correct_answer": "Smiles in response to face",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 18,
+    "clinical_vignette": "A 32-year-old woman presents to clinic complaining of pelvic pain and heavy menstrual bleeding for the past 2 years. The patient reports that her last menstrual period was 1 week ago and she soaked through 1 tampon every 1-2 hours during that time. She does not take any medications and denies alcohol and cigarette use. She is currently trying to have a child with her husband. She works as a school teacher and exercises regularly. Her temperature is 97.0°F (36.1°C), blood pressure is 122/80 mmHg, pulse is 93/min, respirations are 16/min, and oxygen saturation is 99% on room air. Physical examin...",
+    "answer_choices": "A: Folate | B: Hysterectomy | C: Iron | D: Myomectomy",
+    "correct_answer": "Myomectomy",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 19,
+    "clinical_vignette": "Three days into hospitalization for a fractured distal femur, a 33-year-old man develops dyspnea and confusion. He has no history of a serious illness. He is unable to answer any questions or follow any commands. His blood pressure is 145/90 mm Hg, the pulse is 120/min, the respiratory rate is 36/min, and the temperature is 36.7°C (98.1°F). His oxygen saturation is 90% on 80% FiO2. On examination, purpura is noted on the anterior chest, head, and neck. Inspiratory crackles are heard in both lung fields. Arterial blood gas analysis on 80% FiO2 shows:\npH 7.54\nPCO2 17 mm Hg\nPO2 60 mm Hg\nHCO3− 22 ...",
+    "answer_choices": "A: Acute respiratory distress syndrome | B: Fat embolism | C: Hospital-acquired pneumonia | D: Pulmonary thromboembolism",
+    "correct_answer": "Fat embolism",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 20,
+    "clinical_vignette": "A 9-year-old boy is brought to the emergency department by his mother because of painful swelling in his right knee that started after he collided with another player during a soccer game. He has no history of serious illness except for an episode of prolonged bleeding following a tooth extraction a few months ago. Physical examination shows marked tenderness and swelling of the right knee joint. There are multiple bruises on the lower extremities in various stages of healing. Laboratory studies show a platelet count of 235,000/mm3, partial thromboplastin time of 78 seconds, prothrombin time o...",
+    "answer_choices": "A: Protein C | B: Plasmin | C: Thrombin | D: Factor VII",
+    "correct_answer": "Thrombin",
+    "exam_type": "step1"
+  },
+  {
+    "id": 21,
+    "clinical_vignette": "A 48-year-old woman comes to the emergency department because of a photosensitive blistering rash on her hands, forearms, and face for 3 weeks. The lesions are not itchy. She has also noticed that her urine has been dark brown in color recently. Twenty years ago, she was successfully treated for Coats disease of the retina via retinal sclerotherapy. She is currently on hormonal replacement therapy for perimenopausal symptoms. Her aunt and sister have a history of a similar skin lesions. Examination shows multiple fluid-filled blisters and oozing erosions on the forearms, dorsal side of both ha...",
+    "answer_choices": "A: Pursue liver transplantation | B: Begin oral thalidomide therapy | C: Begin phlebotomy therapy | D: Begin oral hydroxychloroquine therapy",
+    "correct_answer": "Begin phlebotomy therapy",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 22,
+    "clinical_vignette": "A 17-year-old man is brought by his mother to his pediatrician in order to complete medical clearance forms prior to attending college. During the visit, his mother asks about what health risks he should be aware of in college. Specifically, she recently saw on the news that some college students were killed by a fatal car crash. She therefore asks about causes of death in this population. Which of the following is true about the causes of death in college age individuals?",
+    "answer_choices": "A: More of them die from suicide than injuries | B: More of them die from homicide than suicide | C: More of them die from cancer than suicide | D: More of them die from homicide than cancer",
+    "correct_answer": "More of them die from homicide than cancer",
+    "exam_type": "step1"
+  },
+  {
+    "id": 23,
+    "clinical_vignette": "A 46-year-old woman comes to the physician for a routine health examination. She was last seen by a physician 3 years ago. She has been healthy aside from occasional mild flank pain. Her only medication is a multivitamin. Her blood pressure is 154/90 mm Hg. Physical examination shows no abnormalities. Serum studies show:\nSodium 141 mEq/L\nPotassium 3.7 mEq/L\nCalcium 11.3 mg/dL\nPhosphorus 2.3 mg/dL\nUrea nitrogen 15 mg/dL\nCreatinine 0.9 mg/dL\nAlbumin 3.6 g/dL\nSubsequent serum studies show a repeat calcium of 11.2 mg/dL, parathyroid hormone concentration of 890 pg/mL, and 25-hydroxyvitamin D of 48...",
+    "answer_choices": "A: Refer to surgery for parathyroidectomy | B: Begin cinacalcet therapy | C: Begin hydrochlorothiazide therapy | D: Perform percutaneous nephrolithotomy",
+    "correct_answer": "Refer to surgery for parathyroidectomy",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 24,
+    "clinical_vignette": "A 60-year-old woman presents for an evaluation for snoring. According to her husband, her snoring has increased over the last year, and he can’t tolerate it anymore. He has also noticed that she wakes up at night regularly for a few seconds but then falls back asleep. During the day, the patient says she is sleepy most of the time and complains of headaches and poor concentration. Past medical history is significant for hypertension and hyperlipidemia. Her temperature is 36.6°C (97.9°F), blood pressure is 156/98 mm Hg, pulse is 90/min and respirations are 20/min. Her body mass index (BMI) is 3...",
+    "answer_choices": "A: Genioglossus muscle | B: Digastric muscle | C: Hyoglossus muscle | D: Palatoglossus muscle",
+    "correct_answer": "Genioglossus muscle",
+    "exam_type": "step1"
+  },
+  {
+    "id": 25,
+    "clinical_vignette": "A 57-year-old man comes to the physician because of sudden-onset fever, malaise, and pain and swelling of his wrists and ankles that began a week ago. One month ago, he was started on hydralazine for adjunctive treatment of hypertension. His temperature is 37.8°C (100°F). Examination shows swelling, tenderness, warmth, and erythema of both wrists and ankles; range of motion is limited. Further evaluation is most likely to show an increased level of which of the following autoantibodies?",
+    "answer_choices": "A: Anti-dsDNA | B: Anti-Smith | C: Anti-β2-glycoprotein | D: Anti-histone",
+    "correct_answer": "Anti-histone",
+    "exam_type": "step1"
+  },
+  {
+    "id": 26,
+    "clinical_vignette": "A 32-year-old man comes to the emergency department because of sharp chest pain for 3 days. The pain is retrosternal, 8 out of 10 in intensity, increases with respiration, and decreases while sitting upright and leaning forward. He has nausea and myalgia. He has not had fever or a cough. He has asthma and was treated for bronchitis 6 months ago with azithromycin. His mother has hypertension. He uses an over-the-counter inhaler. His temperature is 37.3°C (99.1°F), pulse is 110/min, and blood pressure is 130/84 mm Hg. Breath sounds are normal. Cardiac examination shows a high-pitched grating sou...",
+    "answer_choices": "A: Papillary muscle rupture | B: Pulmonary infarction | C: Cardiac tamponade | D: Ventricular aneurysm",
+    "correct_answer": "Cardiac tamponade",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 27,
+    "clinical_vignette": "A 30-year-old forest landscape specialist is brought to the emergency department with hematemesis and confusion. One week ago, she was diagnosed with influenza when she had fevers, severe headaches, myalgias, hip and shoulder pain, and a maculopapular rash. After a day of relative remission, she developed abdominal pain, vomiting, and diarrhea. A single episode of hematemesis occurred prior to admission. Two weeks ago she visited rainforests and caves in western Africa where she had direct contact with animals, including apes. She has no history of serious illnesses or use of medications. She ...",
+    "answer_choices": "A: Ebola virus | B: Plasmodium falciparum | C: Yersinia pestis | D: Zika virus",
+    "correct_answer": "Ebola virus",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 28,
+    "clinical_vignette": "An 18-year-old female returning from a trip to a developing country presents with diarrhea and pain in the abdominal region. Microscopic evaluation of the stool reveals the presence of RBC's and WBC's. The patient reports poor sewage sanitation in the region she visited. The physician suspects a bacterial infection and culture reveals Gram-negative rods that are non-lactose fermenting. The A subunit of the bacteria's toxin acts to:",
+    "answer_choices": "A: Inhibit the 60S ribosome | B: Lyse red blood cells | C: Prevent phagocytosis | D: Inhibit exocytosis of ACh from synaptic terminals",
+    "correct_answer": "Inhibit the 60S ribosome",
+    "exam_type": "step1"
+  },
+  {
+    "id": 29,
+    "clinical_vignette": "A 2-day-old male infant is brought to the emergency department by ambulance after his parents noticed that he was convulsing and unresponsive. He was born at home and appeared well initially; however, within 24 hours he became increasingly irritable and lethargic. Furthermore, he stopped feeding and began to experience worsening tachypnea. This continued for about 6 hours, at which point his parents noticed the convulsions and called for an ambulance. Laboratories are obtained with the following results:\n\nOrotic acid: 9.2 mmol/mol creatinine (normal: 1.4-5.3 mmol/mol creatinine)\nAmmonia: 135 µ...",
+    "answer_choices": "A: Aspartame avoidance | B: Benzoate administration | C: Galactose avoidance | D: Uridine administration",
+    "correct_answer": "Benzoate administration",
+    "exam_type": "step1"
+  },
+  {
+    "id": 30,
+    "clinical_vignette": "Last night you admitted a 72-year-old woman with severe COPD in respiratory distress. She is currently intubated and sedated and her family is at bedside. At the completion of morning rounds, the patient's adult son asks that you and the team take a minute to pray with him for his mother. What is the most appropriate response?",
+    "answer_choices": "A: \"I understand what you are experiencing and am happy to take a minute.\" | B: \"I also believe in the power of prayer, so I will pray with you and insist that the rest of team joins us.\" | C: \"While I cannot offer you my prayers, I will work very hard to take care of your mother.\" | D: \"I don't feel comfortable praying for patients, but I will happily refer you to pastoral care.\"",
+    "correct_answer": "\"I understand what you are experiencing and am happy to take a minute.\"",
+    "exam_type": "step1"
+  },
+  {
+    "id": 31,
+    "clinical_vignette": "A 47-year-old man comes to the physician because of abdominal pain and foul-smelling, watery diarrhea for several days. He has not had nausea, vomiting, or blood in the stool. He has a history of alcohol use disorder and recently completed a 7-day course of clindamycin for pneumonia. He has not traveled out of the United States. Which of the following toxins is most likely to be involved in the pathogenesis of this patient's symptoms?",
+    "answer_choices": "A: Shiga toxin | B: Cholera toxin | C: Cereulide toxin | D: Clostridioides difficile cytotoxin",
+    "correct_answer": "Clostridioides difficile cytotoxin",
+    "exam_type": "step1"
+  },
+  {
+    "id": 32,
+    "clinical_vignette": "A 6-year-old boy presents to the clinic because of monosymptomatic enuresis for the past month. Urinalysis, detailed patient history, and fluid intake, stool, and voiding diary from a previous visit all show no abnormalities. The parent and child are referred for education and behavioral therapy. Enuresis decreases but persists. Both the patient and his mother express concern and want this issue to resolve as soon as possible. Which of the following is the most appropriate next step in management?",
+    "answer_choices": "A: Behavioral therapy | B: DDAVP | C: Enuresis alarm | D: Oxybutynin",
+    "correct_answer": "Enuresis alarm",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 33,
+    "clinical_vignette": "A 32-year-old woman, gravida 2, para 1, at 38 weeks' gestation comes to the emergency department because of vaginal bleeding for the past hour. The patient reports that she felt contractions prior to the onset of the bleeding, but the contractions stopped after the bleeding started. She also has severe abdominal pain. Her first child was delivered by lower segment transverse cesarean section because of a nonreassuring fetal heart rate. Her pulse is 110/min, respirations are 17/min, and blood pressure is 90/60 mm Hg. Examination shows diffuse abdominal tenderness with no rebound or guarding; no...",
+    "answer_choices": "A: Abruptio placentae | B: Vasa previa | C: Uterine rupture | D: Uterine inertia",
+    "correct_answer": "Uterine rupture",
+    "exam_type": "step2&3"
+  },
+  {
+    "id": 34,
+    "clinical_vignette": "A 3-year-old boy presents to a geneticist for generalized developmental delay. Upon presentation he is found to have a distinctive facial structure with prominent epicanthal folds and macroglossia. Further physical examination reveals a simian crease on his palms bilaterally. Based on these findings, the physician strongly suspects Down syndrome and obtains a karyotype. Surprisingly the karyotype shows 46 chromosomes with two normal appearing alleles of chromosome 21. Further examination with fluorescent probes reveals a third copy of chromosome 21 genes that have been incorporated into anothe...",
+    "answer_choices": "A: Nondisjunction | B: Mosaicism | C: Robertsonian translocation | D: Anticipation",
+    "correct_answer": "Robertsonian translocation",
+    "exam_type": "step1"
+  },
+  {
+    "id": 35,
+    "clinical_vignette": "A pharmaceutical company has modified one of its existing antibiotics to have an improved toxicity profile. The new antibiotic blocks protein synthesis by first entering the cell and then binding to active ribosomes. The antibiotic mimics the structure of aminoacyl-tRNA. The drug is covalently bonded to the existing growing peptide chain via peptidyl transferase, thereby impairing the rest of protein synthesis and leading to early polypeptide truncation. Where is the most likely site that this process occurs?",
+    "answer_choices": "A: 40S small subunit | B: A site | C: E site | D: P site",
+    "correct_answer": "P site",
+    "exam_type": "step1"
+  }
+]

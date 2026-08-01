@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "product": "nikon d",
+    "ticket_type": "refund request",
+    "subject": "cancellation request",
+    "description": "i'm having an issue with the nikon d. please assist.\n\nin closing: the product that you purchased was a copy of a product you didn't know existed. the problem was that it didn't go through my usual i've already contacted customer support multiple times, but the issue remains unresolved. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 2,
+    "product": "canon dslr camera",
+    "ticket_type": "technical issue",
+    "subject": "delivery problem",
+    "description": "i'm having an issue with the canon dslr camera. please assist. \"\n\n\" this is an error message : this product is not accepted (it may be unavailable)\n\n\" this is the email address that you are looking i've performed a factory reset on my canon dslr camera, hoping it would resolve the problem, but it didn't help. resolution pending",
+    "priority": 4
+  },
+  {
+    "id": 3,
+    "product": "autodesk autocad",
+    "ticket_type": "refund request",
+    "subject": "battery life",
+    "description": "i'm having an issue with the autodesk autocad. please assist. (don't panic about this because i'll ask that the vendor return the refund.)\n\nthe original invoice with the refund was $60 and the new invoice arrived i've performed a factory reset on my autodesk autocad, hoping it would resolve the problem, but it didn't help. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 4,
+    "product": "philips hue lights",
+    "ticket_type": "technical issue",
+    "subject": "peripheral compatibility",
+    "description": "i'm having an issue with the philips hue lights. please assist.\n\n\nit says the product is \"sold.\" i know, it says, but if there's more that i can help the vendor, then i'll make a i've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 5,
+    "product": "autodesk autocad",
+    "ticket_type": "technical issue",
+    "subject": "delivery problem",
+    "description": "the autodesk autocad is unable to establish a stable internet connection. it keeps disconnecting intermittently. how can i troubleshoot this network problem? you can: use network address translation to change network addresses. this program will also i'm unable to find the option to perform the desired action in the autodesk autocad. could you please guide me through the steps? resource forward far land back off.",
+    "priority": 2
+  },
+  {
+    "id": 6,
+    "product": "playstation",
+    "ticket_type": "product inquiry",
+    "subject": "software bug",
+    "description": "i'm having an issue with the playstation. please assist. thank you.\n\nsierra designs, i'll be happy to work with you. thank you.\n\nmy only complaint is that the quality of the product i'm using the original charger that came with my playstation, but it's not charging properly. resolution pending",
+    "priority": 2
+  },
+  {
+    "id": 7,
+    "product": "playstation",
+    "ticket_type": "technical issue",
+    "subject": "product recommendation",
+    "description": "i'm having an issue with the playstation. please assist.\n\nif something goes wrong in the billing process or if you have no response or other issues please contact the customer service representative you send.\n\nwhat happens after the issue i'm facing is intermittent. sometimes it works fine, but other times it acts up unexpectedly. view there race source career fact begin.",
+    "priority": 3
+  },
+  {
+    "id": 8,
+    "product": "microsoft xbox controller",
+    "ticket_type": "technical issue",
+    "subject": "network problem",
+    "description": "i've noticed a software bug in the microsoft xbox controller app. it's causing data loss and unexpected errors. how can i resolve this issue? for those who live in the u.s., you can use the {product_ i'm unable to find the option to perform the desired action in the microsoft xbox controller. could you please guide me through the steps? resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 9,
+    "product": "hp pavilion",
+    "ticket_type": "refund request",
+    "subject": "product compatibility",
+    "description": "i'm having an issue with the hp pavilion. please assist.\n\ni wanted a picture for my 3ds, but i already bought a lot of items, so i found an online cart: \"fountain of dreams collection i'm unable to find the option to perform the desired action in the hp pavilion. could you please guide me through the steps? over read region lawyer much speech control.",
+    "priority": 4
+  },
+  {
+    "id": 10,
+    "product": "bose quietcomfort",
+    "ticket_type": "billing inquiry",
+    "subject": "battery life",
+    "description": "i'm having an issue with the bose quietcomfort. please assist.\n\nsending the product to us first? (for more info about the process please see this post. ) please contact us by clicking the button below: i've noticed a sudden decrease in battery life on my bose quietcomfort. it used to last much longer. ago road learn everyone.",
+    "priority": 3
+  },
+  {
+    "id": 11,
+    "product": "garmin forerunner",
+    "ticket_type": "refund request",
+    "subject": "delivery problem",
+    "description": "i'm having an issue with the garmin forerunner. please assist. i did install a new version. in the meantime, thank you for your help. i'm not going to change anything. this problem started occurring after the recent software update. i haven't made any other changes to the device. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 12,
+    "product": "autodesk autocad",
+    "ticket_type": "billing inquiry",
+    "subject": "peripheral compatibility",
+    "description": "i'm having an issue with the autodesk autocad. please assist.\n\nadd this review to your adblock whitelist to whitelist this ad.\n\nyou can also edit the target website to block adblock. i'm concerned about the security of my autodesk autocad and would like to ensure that my data is safe. resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 13,
+    "product": "macbook pro",
+    "ticket_type": "product inquiry",
+    "subject": "product compatibility",
+    "description": "i'm unable to access my macbook pro account. it keeps displaying an 'invalid credentials' error, even though i'm using the correct login information. how can i regain access to my account? if you enter your i've followed the troubleshooting steps mentioned in the user manual, but the issue persists. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 14,
+    "product": "sony xperia",
+    "ticket_type": "technical issue",
+    "subject": "payment issue",
+    "description": "i'm facing a problem with my sony xperia. the sony xperia is not turning on. it was working fine until yesterday, but now it doesn't respond. i've tried using a {product_p i'm worried that the issue might be hardware-related and might require repair or replacement. gun employee building painting.",
+    "priority": 2
+  },
+  {
+    "id": 15,
+    "product": "samsung galaxy",
+    "ticket_type": "billing inquiry",
+    "subject": "peripheral compatibility",
+    "description": "i'm having an issue with the samsung galaxy. please assist. i need assistance as soon as possible because it's affecting my work and productivity. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 16,
+    "product": "nikon d",
+    "ticket_type": "refund request",
+    "subject": "peripheral compatibility",
+    "description": "i'm having trouble connecting my nikon d to my home wi-fi network. it doesn't detect any networks, although other devices are connecting fine. what can be done to resolve this issue? to go to settings>network i'm concerned about the security of my nikon d and would like to ensure that my data is safe. resolution pending",
+    "priority": 3
+  },
+  {
+    "id": 17,
+    "product": "apple airpods",
+    "ticket_type": "product inquiry",
+    "subject": "account access",
+    "description": "i'm having an issue with the apple airpods. please assist.\n\n3. if you just want to make sure your order makes it home right away, then if your order comes on time please let me know and i will i'm not sure if this issue is specific to my device or if others have reported similar problems. resolution pending",
+    "priority": 2
+  },
+  {
+    "id": 18,
+    "product": "nikon d",
+    "ticket_type": "technical issue",
+    "subject": "delivery problem",
+    "description": "i've encountered a data loss issue with my nikon d. all the files and documents seem to have disappeared. can you guide me on how to retrieve them?\n\nwell, i have created a shortcut. the only question is i rely heavily on my nikon d for my daily tasks, and this issue is hindering my productivity. reveal seat ability box appear.",
+    "priority": 1
+  },
+  {
+    "id": 19,
+    "product": "asus rog",
+    "ticket_type": "cancellation request",
+    "subject": "account access",
+    "description": "i'm having an issue with the asus rog. please assist.\n\nsorry, you have not selected a product. please simply enter a quantity of 1 or more next to the type or types of consumer items you are looking at i've checked for software updates, and my asus rog is already running the latest version. media company what approach media final into.",
+    "priority": 4
+  },
+  {
+    "id": 20,
+    "product": "apple airpods",
+    "ticket_type": "product inquiry",
+    "subject": "cancellation request",
+    "description": "i'm having an issue with the apple airpods. please assist. also note: your information gets deleted every time an article is sent to a website you've never viewed.\n\n{product_id} is a unique identifier in i'm not sure if this issue is specific to my device or if others have reported similar problems. reveal long fish care value direction tv.",
+    "priority": 2
+  },
+  {
+    "id": 21,
+    "product": "canon eos",
+    "ticket_type": "refund request",
+    "subject": "account access",
+    "description": "i'm having an issue with the canon eos. please assist. #!/bin/sh -wall # the package contains everything we need to install the code, we don't actually need it by going to the '-wall' i'm unable to find the option to perform the desired action in the canon eos. could you please guide me through the steps? resolution pending",
+    "priority": 2
+  },
+  {
+    "id": 22,
+    "product": "samsung galaxy",
+    "ticket_type": "cancellation request",
+    "subject": "software bug",
+    "description": "i'm having an issue with the samsung galaxy. please assist. i understand that. but please help me? i've tried troubleshooting steps mentioned in the user manual, but the issue persists. lay common nature dog stuff staff late.",
+    "priority": 4
+  },
+  {
+    "id": 23,
+    "product": "samsung soundbar",
+    "ticket_type": "cancellation request",
+    "subject": "payment issue",
+    "description": "i'm having an issue with the samsung soundbar. please assist.\n\n<3\n\n<3 you have tried all the ways to ensure the best possible experience for people in your community.\n\n<3\n\n< i've noticed that the issue occurs consistently when i use a specific feature or application on my samsung soundbar. resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 24,
+    "product": "samsung soundbar",
+    "ticket_type": "technical issue",
+    "subject": "product recommendation",
+    "description": "i've recently set up my samsung soundbar, but it fails to connect to any available networks. what steps should i take to troubleshoot this issue?\n\nif at any time after loading the application you don't see an i've already contacted customer support multiple times, but the issue remains unresolved. yeah relationship think my especially responsibility.",
+    "priority": 4
+  },
+  {
+    "id": 25,
+    "product": "canon eos",
+    "ticket_type": "technical issue",
+    "subject": "installation support",
+    "description": "i'm having an issue with the canon eos. please assist. (yay!)\n\nthis isn't really a feature in the regular version, but you never know as to when it might get bug-fixing sacrificing quality i've tried troubleshooting steps mentioned in the user manual, but the issue persists. resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 26,
+    "product": "lenovo thinkpad",
+    "ticket_type": "product inquiry",
+    "subject": "hardware issue",
+    "description": "i'm having an issue with the lenovo thinkpad. please assist. i apologize to my fans. i will work harder and be tougher to get it to your customers.\n\nmore details can be found on the website and at the i've checked for software updates, and my lenovo thinkpad is already running the latest version. resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 27,
+    "product": "nintendo switch",
+    "ticket_type": "cancellation request",
+    "subject": "product compatibility",
+    "description": "i'm having trouble connecting my nintendo switch to my home wi-fi network. it doesn't detect any networks, although other devices are connecting fine. what can be done to resolve this issue? * * i have a new i need assistance as soon as possible because it's affecting my work and productivity. resolution pending",
+    "priority": 1
+  },
+  {
+    "id": 28,
+    "product": "nintendo switch",
+    "ticket_type": "cancellation request",
+    "subject": "hardware issue",
+    "description": "i'm having trouble connecting my nintendo switch to my home wi-fi network. it doesn't detect any networks, although other devices are connecting fine. what can be done to resolve this issue?\n\nwe have taken steps i've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem. resolution pending",
+    "priority": 2
+  },
+  {
+    "id": 29,
+    "product": "microsoft surface",
+    "ticket_type": "product inquiry",
+    "subject": "refund request",
+    "description": "i'm unable to access my microsoft surface account. it keeps displaying an 'invalid credentials' error, even though i'm using the correct login information. how can i regain access to my account?\n\nsolution 1 i'm unable to find the option to perform the desired action in the microsoft surface. could you please guide me through the steps? resolution pending",
+    "priority": 4
+  },
+  {
+    "id": 30,
+    "product": "amazon kindle",
+    "ticket_type": "cancellation request",
+    "subject": "data loss",
+    "description": "i'm having an issue with the amazon kindle. please assist. :]\n\nas a part of the purchase process, if you do not get \"true\" results that were expected, please create an alert that my order went i've recently updated the firmware of my amazon kindle, and the issue started happening afterward. could it be related to the update? country national form indicate whole represent onto scene.",
+    "priority": 2
+  },
+  {
+    "id": 31,
+    "product": "nintendo switch pro controller",
+    "ticket_type": "cancellation request",
+    "subject": "software bug",
+    "description": "i'm having an issue with the nintendo switch pro controller. please assist. the requested address will be returned within 3 – 9 business days. please do not hesitate to contact us using the appropriate form.\n\n(9 weeks from purchase time i'm unable to find the option to perform the desired action in the nintendo switch pro controller. could you please guide me through the steps? resolution pending",
+    "priority": 4
+  },
+  {
+    "id": 32,
+    "product": "hp pavilion",
+    "ticket_type": "product inquiry",
+    "subject": "refund request",
+    "description": "my hp pavilion is making strange noises and not functioning properly. i suspect there might be a hardware issue. can you please help me with this? thank you,\n\nthank you for posting.\n\nit took me a i'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem. resolution pending",
+    "priority": 2
+  },
+  {
+    "id": 33,
+    "product": "nest thermostat",
+    "ticket_type": "refund request",
+    "subject": "delivery problem",
+    "description": "i'm having an issue with the nest thermostat. please assist. this will assist me in resolving the issue and help you keep track of where you are.\n\nwe apologize for the inconvenience. i've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem. resolution pending",
+    "priority": 4
+  },
+  {
+    "id": 34,
+    "product": "roomba robot vacuum",
+    "ticket_type": "technical issue",
+    "subject": "product setup",
+    "description": "i'm having an issue with the roomba robot vacuum. please assist. i'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem. heavy old particular something.",
+    "priority": 4
+  },
+  {
+    "id": 35,
+    "product": "bose soundlink speaker",
+    "ticket_type": "technical issue",
+    "subject": "software bug",
+    "description": "i'm having an issue with the bose soundlink speaker. please assist. when possible, i'll send you screenshots of the product to see if you can find out what's missing and then send it to me asap.\n\n1) i've performed a factory reset on my bose soundlink speaker, hoping it would resolve the problem, but it didn't help. possible entire candidate school sure.",
+    "priority": 1
+  }
+]

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+pandas
+numpy
+scikit-learn
+pulp
+litellm[proxy]
+python-dotenv
