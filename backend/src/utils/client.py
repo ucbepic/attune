@@ -33,8 +33,6 @@ def _with_provider_prefix(model):
 
 _CONFIG = {
     "model": _with_provider_prefix(os.getenv("MODEL")),
-    "embedding_model": _with_provider_prefix(os.getenv("EMBEDDING_MODEL")),
-    "embedding_api_base": os.getenv("EMBEDDING_AZURE_ENDPOINT"),
 }
 
 if os.getenv("AZURE_API_KEY"):
@@ -64,10 +62,6 @@ def configure_llm(config):
 
     if config.get("model"):
         _CONFIG["model"] = config["model"]
-    if config.get("embedding_model"):
-        _CONFIG["embedding_model"] = config["embedding_model"]
-    if config.get("embedding_api_base"):
-        _CONFIG["embedding_api_base"] = config["embedding_api_base"]
 
 
 def is_configured():
@@ -193,19 +187,6 @@ def invoke_llm(prompt, temperature=None):
     logprob = _extract_logprob_value(response)
     cost = _response_cost(response)
     return content, logprob, cost
-
-
-def get_embedding(text):
-    model = _CONFIG.get("embedding_model")
-    if not model:
-        raise RuntimeError("No embedding model configured.")
-    kwargs = {"model": model, "input": text}
-    if _CONFIG.get("embedding_api_base"):
-        kwargs["api_base"] = _CONFIG["embedding_api_base"]
-    response = litellm.embedding(**kwargs)
-    embedding = response.data[0]['embedding']
-    cost = _response_cost(response)
-    return embedding, cost
 
 
 if __name__ == "__main__":
