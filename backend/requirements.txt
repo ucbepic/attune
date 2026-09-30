@@ -5,6 +5,6 @@ pydantic
 pandas
 numpy
 scikit-learn
-pulp
+pulp<4
 litellm[proxy]
 python-dotenv
