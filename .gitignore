@@ -8,6 +8,9 @@ DEPLOYMENT.md
 backend/modal_app.py
 .vercel/
 
+# Local Claude Code tooling
+.claude/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -19,3 +22,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# Miscellaneous
+research_artifacts/

@@ -129,6 +129,7 @@ app.add_middleware(
         "https://attune-frontend.azurewebsites.net",
         "https://attune-alpha.vercel.app",
     ],
+    allow_origin_regex=r"http://(localhost|127\.0\.0\.1)(:\d+)?",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
