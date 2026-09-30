@@ -151,6 +151,11 @@ async def apply_llm_config(request: Request, call_next):
 async def root():
     return {"message": "Awake"}
 
+
+@app.get("/llm-config")
+async def llm_config_status():
+    return llm_client.server_config_status()
+
 @app.post("/score")
 async def score_endpoint(request_data: dict):
     data = DataFrame(request_data.get("data", []))

@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useCallback, useMemo } from "react"
 import { getLlmConfigHeader, notifyNoApiKeys, hasLlmConfig, MissingApiKeysError, isMissingApiKeysError } from "@/lib/llm-config"
+import { getEndpoint } from "@/lib/api"
 import { DATASETS } from "@/components/header"
 import triageData from "@/data/triage.json"
 import studentEssaysData from "@/data/student_essays.json"
@@ -214,20 +215,16 @@ export function computeMAE(data: any[], datasetKey: string | null): number | nul
   return totalError / scoredItems.length
 }
 
-export function getEndpoint(path: string = "") {
-  const isLocalhost = typeof window !== "undefined" && window.location.hostname === "localhost"
-  const base = isLocalhost ? "http://localhost:8000" : (process.env.NEXT_PUBLIC_API_URL ?? "")
-  return `${base}${path}`
-}
+export { getEndpoint }
 
 export async function apiFetch(path: string, init: RequestInit = {}): Promise<Response> {
-  const configHeader = getLlmConfigHeader()
-  if (!configHeader) {
+  if (!hasLlmConfig()) {
     notifyNoApiKeys()
     throw new MissingApiKeysError()
   }
   const headers = new Headers(init.headers)
-  headers.set("X-LLM-Config", configHeader)
+  const configHeader = getLlmConfigHeader()
+  if (configHeader) headers.set("X-LLM-Config", configHeader)
   return fetch(getEndpoint(path), { ...init, headers })
 }
 

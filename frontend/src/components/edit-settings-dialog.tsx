@@ -50,7 +50,7 @@ function buildInitialRows(config: LlmConfig, nextId: () => number): EnvRow[] {
 }
 
 export default function EditSettingsDialog() {
-  const { config, saveConfig, settingsOpen, setSettingsOpen } = useLlmConfig()
+  const { config, saveConfig, settingsOpen, setSettingsOpen, serverStatus } = useLlmConfig()
   const idRef = useRef(0)
   const nextId = () => ++idRef.current
 
@@ -118,6 +118,11 @@ export default function EditSettingsDialog() {
           </a>
           .
         </DialogDescription>
+        {serverStatus.configured && (
+          <p className="text-xs text-pink-700" style={{ marginTop: "1rem" }}>
+            The backend is already configured with {serverStatus.model ?? "a model"} using your local .env file. Keys entered here override it for this browser session only.
+          </p>
+        )}
 
         <div className="mt-3 space-y-1">
           <Label htmlFor="llm-model" className="text-xs text-[#003953]">Model</Label>

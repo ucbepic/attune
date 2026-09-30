@@ -64,8 +64,15 @@ def configure_llm(config):
         _CONFIG["model"] = config["model"]
 
 
+_SERVER_MODEL = _CONFIG["model"]
+
+
 def is_configured():
     return bool(_CONFIG.get("model"))
+
+
+def server_config_status():
+    return {"configured": bool(_SERVER_MODEL), "model": _SERVER_MODEL}
 
 
 def _require_model():

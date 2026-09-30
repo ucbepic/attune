@@ -8,15 +8,23 @@ import {
   useState,
 } from "react"
 import { toast } from "sonner"
+import { getEndpoint } from "@/lib/api"
 
 export interface LlmConfig {
   model: string
   env: Record<string, string>
 }
 
+export interface ServerLlmStatus {
+  configured: boolean
+  model: string | null
+}
+
 const EMPTY_CONFIG: LlmConfig = { model: "", env: {} }
+const UNKNOWN_SERVER_STATUS: ServerLlmStatus = { configured: false, model: null }
 
 let _store: LlmConfig = EMPTY_CONFIG
+let _serverStatus: ServerLlmStatus = UNKNOWN_SERVER_STATUS
 let _openSettings: (() => void) | null = null
 
 function hasUsableConfig(config: LlmConfig): boolean {
@@ -27,7 +35,21 @@ function hasUsableConfig(config: LlmConfig): boolean {
 }
 
 export function hasLlmConfig(): boolean {
-  return hasUsableConfig(_store)
+  return hasUsableConfig(_store) || _serverStatus.configured
+}
+
+async function fetchServerStatus(): Promise<ServerLlmStatus> {
+  try {
+    const response = await fetch(getEndpoint("/llm-config"))
+    if (!response.ok) return UNKNOWN_SERVER_STATUS
+    const data = await response.json()
+    return {
+      configured: Boolean(data?.configured),
+      model: typeof data?.model === "string" ? data.model : null,
+    }
+  } catch {
+    return UNKNOWN_SERVER_STATUS
+  }
 }
 
 export function getLlmConfigHeader(): string | null {
@@ -69,6 +91,7 @@ export function notifyNoApiKeys() {
 interface LlmConfigContextValue {
   config: LlmConfig
   isConfigured: boolean
+  serverStatus: ServerLlmStatus
   saveConfig: (config: LlmConfig) => void
   settingsOpen: boolean
   setSettingsOpen: (open: boolean) => void
@@ -79,6 +102,7 @@ const LlmConfigContext = createContext<LlmConfigContextValue | null>(null)
 
 export function LlmConfigProvider({ children }: { children: React.ReactNode }) {
   const [config, setConfig] = useState<LlmConfig>(_store)
+  const [serverStatus, setServerStatus] = useState<ServerLlmStatus>(_serverStatus)
   const [settingsOpen, setSettingsOpen] = useState(false)
 
   const openSettings = useCallback(() => setSettingsOpen(true), [])
@@ -97,15 +121,22 @@ export function LlmConfigProvider({ children }: { children: React.ReactNode }) {
   }, [])
 
   useEffect(() => {
-    const timer = setTimeout(() => {
+    let cancelled = false
+    fetchServerStatus().then((status) => {
+      if (cancelled) return
+      _serverStatus = status
+      setServerStatus(status)
       if (!hasLlmConfig()) notifyNoApiKeys()
-    }, 0)
-    return () => clearTimeout(timer)
+    })
+    return () => {
+      cancelled = true
+    }
   }, [])
 
   const value: LlmConfigContextValue = {
     config,
-    isConfigured: hasUsableConfig(config),
+    isConfigured: hasUsableConfig(config) || serverStatus.configured,
+    serverStatus,
     saveConfig,
     settingsOpen,
     setSettingsOpen,
